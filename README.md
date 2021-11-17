@@ -1,7 +1,11 @@
+## Background
+
+Securing the software supply chain has increasingly become a topic of interest and concern for many IT and Cybersecurity leaders across both the public and private sector. Due to seveal high profile cybersecurity breaches facilitated through software supply chain compromise, organizations are increasingly realizing both the fragility and complexity of the software supply chain. This repository is a collection of resources aggregated to help aid practitioners and leaders both understand the scope of the problem and some of the best practices and solutions to mitigate the risk associated with an insecure software supply chain. 
+
 ## Table of contents
 
 - [What's included](#whats-included)
-- [Whitepapers,Publications and Research](#whitepapers, publications and research)
+- [Whitepapers,Publications and Research](#whitepapers-publications-and-research)
 - [SBOM](#sbom)
 - [Conferences](#conferences)
 - [Contributing](#contributing)
