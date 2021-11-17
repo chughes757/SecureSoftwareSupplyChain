@@ -1,7 +1,7 @@
 ## Table of contents
 
 - [What's included](#whats-included)
-- [Whitepapers, Publications and Research](#whitepapers, publications and research)
+- [Whitepapers,Publications and Research](#whitepapers, publications and research)
 - [SBOM](#sbom)
 - [Conferences](#conferences)
 - [Contributing](#contributing)
