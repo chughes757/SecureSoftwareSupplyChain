@@ -33,6 +33,7 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - Synopsis: Reduce Risk With Effective Software Supply Chain Management (https://www.synopsys.com/software-integrity/resources/white-papers/sofware-supply-chain-management.html)
 - Google Cloud: shifting Left on Security - Securing Software Supply Chains (https://cloud.google.com/files/shifting-left-on-security.pdf)
 - VMware Securing Software Supply Chains blog (https://blogs.vmware.com/opensource/2021/06/01/vmware-developers-help-write-a-new-cncf-whitepaper-on-best-practices-for-securing-the-software-supply-chain/)
+- Using the Software Bill of Materials for Enhancing Cybersecurity - National Cyber Security Centre (Netherlands) (https://english.ncsc.nl/publications/publications/2021/february/4/using-the-software-bill-of-materials-for-enhancing-cybersecurity)
 
 ## SBOM
 
@@ -64,9 +65,10 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - OpenSSF: Scorecard (https://github.com/ossf/scorecard)
 - Google: Open Source Insights (https://deps.dev/)
 - OWASP: Dependency Check (https://owasp.org/www-project-dependency-check/)
+- OWASP: Dependency Track (https://dependencytrack.org/)
+- OWASP: Software Component Verification Standard (SCVS) (http://owasp.org/scvs)
 - Open Source Security Foundation (OpenSSF) (https://openssf.org/)
 - sigstore: A new standard for signing, verifying and protecting software (https://www.sigstore.dev/) 
-
 
 ## Creators
 
