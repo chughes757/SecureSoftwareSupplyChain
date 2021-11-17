@@ -22,6 +22,7 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - White House Executive Order on Improving the Nation's Cybersecurity (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 - DRAFT NIST 800-218 Secure Software Development Framework (SSDF) Recommendations for Mitigating Software Vulnerabilities (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218-draft.pdf)
 - DRAFT National Security Telecommunications Advisory Committee (NSTAC) Draft to the President: Software Assuruance in the Information and Communications Technology and Services Supply Chain (https://www.cisa.gov/sites/default/files/publications/Draft%20NSTAC%20Report%20to%20the%20President%20on%20Software%20Assurance.pdf)
+- MITRE Delivery Uncompromised: Securing Critical Software Supply Chains (https://www.mitre.org/publications/technical-papers/deliver-uncompromised-securing-critical-software-supply-chains)
 - Atlantic Council Breaking Trust: Shades of crisis across an insecure software supply chain (https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf)
 - Atlantic Council Broken Trust: Lessons from Suburnt (https://www.atlanticcouncil.org/wp-content/uploads/2021/03/BROKEN-TRUST.pdf)
 - Cloud Native Computing Foundation: Catalog of Supply Chain Compromises (https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
