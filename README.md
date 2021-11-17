@@ -28,11 +28,9 @@
 ## What's included
 
 This repo contains a collection of Secure Software Supply Chain resources. This includes conferences, whitepapers, publications, research and more. 
-```
+
 
 ## Whitepapers, Publications and Research
-
-Some text
 
 - White House Executive Order on Improving the Nation's Cybersecurity (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 - DRAFT NIST 800-218 Secure Software Development Framework (SSDF) Recommendations for Mitigating Software Vulnerabilities (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218-draft.pdf)
