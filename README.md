@@ -1,9 +1,9 @@
 ## Table of contents
 
 - [What's included](#whats-included)
-- [Whitepapers, Publications and Research] (#whitepapers, publications and research)
-- [SBOM] (#sbom)
-- [Conferences] (#conferences)
+- [Whitepapers, Publications and Research](#whitepapers, publications and research)
+- [SBOM](#sbom)
+- [Conferences](#conferences)
 - [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
