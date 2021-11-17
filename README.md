@@ -58,6 +58,8 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 ## Resources
 
 - Supply-chain Levels for Software Artifacts (SLSA) (https://slsa.dev/)
+- Cybersecurity & Infrastructure Security Agency (CISA): Information and Communications Technology Supply Chain Risk Management (https://www.cisa.gov/supply-chain)
+- The National Counterintelligence and Security Center: Supply Chain Risk Management Guidance (https://www.dni.gov/index.php/ncsc-newsroom/item/2153-ncsc-unveils-new-supply-chain-risk-management-guidance)
 - in-toto: A Framework to secure the integrity of software supply chain (https://in-toto.io/)
 - OpenSSF: Scorecard (https://github.com/ossf/scorecard)
 - Google: Open Source Insights (https://deps.dev/)
