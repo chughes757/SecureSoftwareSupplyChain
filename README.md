@@ -67,7 +67,8 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - OWASP: Dependency Check (https://owasp.org/www-project-dependency-check/)
 - Open Source Security Foundation (OpenSSF) (https://openssf.org/)
 - sigstore: A new standard for signing, verifying and protecting software (https://www.sigstore.dev/) 
-
+- CycloneDX (https://github.com/orgs/CycloneDX/repositories) with their open-source community SBOM standard and many tools supporting different language ecosystems
+- DecoderRing (https://github.com/DanBeard/DecoderRing) tool for converting between popular SBOM formats (SPDX, SWID)
 
 ## Creators
 
