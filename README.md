@@ -33,6 +33,7 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - Synopsis: Reduce Risk With Effective Software Supply Chain Management (https://www.synopsys.com/software-integrity/resources/white-papers/sofware-supply-chain-management.html)
 - Google Cloud: shifting Left on Security - Securing Software Supply Chains (https://cloud.google.com/files/shifting-left-on-security.pdf)
 - VMware Securing Software Supply Chains blog (https://blogs.vmware.com/opensource/2021/06/01/vmware-developers-help-write-a-new-cncf-whitepaper-on-best-practices-for-securing-the-software-supply-chain/)
+- VMware Supply Chain Choreography - https://tanzu.vmware.com/developer/guides/supply-chain-choreography/
 
 ## SBOM
 
@@ -48,6 +49,7 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - Software Identity: Challenges and Guidance (https://www.ntia.gov/files/ntia/publications/ntia_sbom_software_identity-2021mar30.pdf)
 - SBOM Tool Classification Taxonomy (https://www.ntia.gov/files/ntia/publications/ntia_sbom_tooling_taxonomy-2021mar30.pdf)
 - Sharing and Exchanging SBOM (https://www.ntia.gov/files/ntia/publications/ntia_sbom_sharing_exchanging_sboms-10feb2021.pdf)
+- SBOM and Attestations https://www.youtube.com/watch?v=wX6aTZfpJv0&t=702s
 - Awesome SBOM Repository (https://github.com/awesomeSBOM/awesome-sbom)
 
 ## Conferences
@@ -69,6 +71,7 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - sigstore: A new standard for signing, verifying and protecting software (https://www.sigstore.dev/) 
 - CycloneDX (https://github.com/orgs/CycloneDX/repositories) with their open-source community SBOM standard and many tools supporting different language ecosystems
 - DecoderRing (https://github.com/DanBeard/DecoderRing) tool for converting between popular SBOM formats (SPDX, SWID)
+- VMware Supply chain cartographer (https://cartographer.sh/docs/v0.0.6/) 
 
 ## Creators
 
