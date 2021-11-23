@@ -49,6 +49,7 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - Software Identity: Challenges and Guidance (https://www.ntia.gov/files/ntia/publications/ntia_sbom_software_identity-2021mar30.pdf)
 - SBOM Tool Classification Taxonomy (https://www.ntia.gov/files/ntia/publications/ntia_sbom_tooling_taxonomy-2021mar30.pdf)
 - Sharing and Exchanging SBOM (https://www.ntia.gov/files/ntia/publications/ntia_sbom_sharing_exchanging_sboms-10feb2021.pdf)
+- SBOM and Attestations https://www.youtube.com/watch?v=wX6aTZfpJv0&t=702s
 - Awesome SBOM Repository (https://github.com/awesomeSBOM/awesome-sbom)
 
 ## Conferences
