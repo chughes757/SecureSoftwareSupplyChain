@@ -72,6 +72,12 @@ This repo contains a collection of Secure Software Supply Chain resources. This 
 - CycloneDX (https://github.com/orgs/CycloneDX/repositories) with their open-source community SBOM standard and many tools supporting different language ecosystems
 - DecoderRing (https://github.com/DanBeard/DecoderRing) tool for converting between popular SBOM formats (SPDX, SWID)
 - VMware Supply chain cartographer (https://cartographer.sh/docs/v0.0.6/) 
+- Google Security Blog: How to SLSA Part 1 - The Basics (https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html)
+- Google Security Blog: How to SLSA Part 2 - The Details (https://security.googleblog.com/2022/04/how-to-slsa-part-2-details.html)
+- Google Security Blog: How to SLSA Part 3 - Putting it all together (https://security.googleblog.com/2022/04/how-to-slsa-part-3-putting-it-all.html) 
+- Tom Alrichs Blog: Finnaly, guidelines for using SBOMs (https://tomalrichblog.blogspot.com/2022/04/finally-guidelines-for-using-sboms.html)
+- Tom Alrichs Blog: Needed: Real-time VEX (https://tomalrichblog.blogspot.com/2022/04/needed-real-time-vex.html)
+- Tom Alrichs Blog: Which is the right SBOM format for us? (https://tomalrichblog.blogspot.com/2022/01/which-is-right-sbom-format-for-us.html) 
 
 ## Creators
 
